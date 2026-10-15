@@ -1,0 +1,1 @@
+# Intelligent-Retails-Insights-Generator
